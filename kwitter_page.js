@@ -66,5 +66,5 @@ var firebaseConfig = {
   window.location.replace("index.html");
   }
 function back(){
-  window.location="kwitter_page.html"
+  window.location="kwitter_room.html"
 }
